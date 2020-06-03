@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         //
         Log.i("TAG", "onCreate: ")
+        Log.i("TAG", "onCreate: hello")
     }
 }
